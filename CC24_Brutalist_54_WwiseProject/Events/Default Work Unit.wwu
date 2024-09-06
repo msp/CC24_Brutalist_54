@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{0C32C661-80AC-468B-B56D-F0D20622464D}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{0C32C661-80AC-468B-B56D-F0D20622464D}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{0C32C661-80AC-468B-B56D-F0D20622464D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Tkay_Maidza_ADM_BWF_13_03_23_mastered" ID="{83C824A0-AB47-48BC-B04E-A111A906BC10}">
+					<ChildrenList>
+						<Action Name="" ID="{82635DF1-B5FA-4223-9844-ECCACE3B0F32}" ShortID="485502724">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tkay Maidza_ADM BWF_13-03-23_mastered" ID="{39312471-559A-4AFA-B890-A1E4EAEF8D83}" WorkUnitID="{23904697-8484-44C1-AA3C-AE7561555CAB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

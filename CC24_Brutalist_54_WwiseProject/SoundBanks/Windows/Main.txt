@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3535669064	Play_Tkay_Maidza_ADM_BWF_13_03_23_mastered			\Default Work Unit\Play_Tkay_Maidza_ADM_BWF_13_03_23_mastered	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	497997522	Tkay Maidza_ADM BWF_13-03-23_mastered	C:\Users\Paral\Documents\Unreal Projects\CC24_Brutalist_54\CC24_Brutalist_54_WwiseProject\.cache\52\{52015910-AB18-B1D6-4D17-434260C8AFB2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tkay Maidza_ADM BWF_13-03-23_mastered		987600848
+

@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{23904697-8484-44C1-AA3C-AE7561555CAB}" SchemaVersion="123">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{23904697-8484-44C1-AA3C-AE7561555CAB}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{23904697-8484-44C1-AA3C-AE7561555CAB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Tkay Maidza_ADM BWF_13-03-23_mastered" ID="{39312471-559A-4AFA-B890-A1E4EAEF8D83}" ShortID="897119684">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B52B269B-11D5-4FEC-906F-015F2D4A74A6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CD23BBDD-8B10-41A8-8121-1DB7904037B2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Tkay Maidza_ADM BWF_13-03-23_mastered" ID="{CDFEF25E-F19B-43A4-9F56-AA4DB9C1BC33}">
+							<Language>SFX</Language>
+							<AudioFile>Tkay Maidza_ADM BWF_13-03-23_mastered.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="497997522"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Tkay Maidza_ADM BWF_13-03-23_mastered" ID="{CDFEF25E-F19B-43A4-9F56-AA4DB9C1BC33}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

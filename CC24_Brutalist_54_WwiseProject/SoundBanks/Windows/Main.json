@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "152",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{D6F8A8A0-E6B1-4F16-86F0-AF55E99663F6}",
+    "Language": "SFX",
+    "Hash": "{8389A06E-80F5-1033-A694-52211AB11333}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "497997522",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tkay Maidza_ADM BWF_13-03-23_mastered.wav",
+      "CachePath": "52/{52015910-AB18-B1D6-4D17-434260C8AFB2}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3535669064",
+      "Name": "Play_Tkay_Maidza_ADM_BWF_13_03_23_mastered",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Tkay_Maidza_ADM_BWF_13_03_23_mastered",
+      "GUID": "{83C824A0-AB47-48BC-B04E-A111A906BC10}",
+      "DurationType": "OneShot",
+      "DurationMin": "177.25867",
+      "DurationMax": "177.25867",
+      "MediaRefs": [
+       {
+        "Id": "497997522"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{FC0118FE-F5BA-3393-216E-EA7682E5D95F}"
+ }
+}
