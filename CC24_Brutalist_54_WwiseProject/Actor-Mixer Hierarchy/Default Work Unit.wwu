@@ -4,6 +4,9 @@
 		<WorkUnit Name="Default Work Unit" ID="{23904697-8484-44C1-AA3C-AE7561555CAB}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="Tkay Maidza_ADM BWF_13-03-23_mastered" ID="{39312471-559A-4AFA-B890-A1E4EAEF8D83}" ShortID="897119684">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B52B269B-11D5-4FEC-906F-015F2D4A74A6}"/>

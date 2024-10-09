@@ -11660,6 +11660,12 @@
 				<PhysicalFolder Path="SoundBanks">
 					<WorkUnit Name="SoundBanks" ID="{C98E673F-A24C-48A8-960F-10565FFE70A0}" PersistMode="Standalone"/>
 				</PhysicalFolder>
+				<PhysicalFolder Path="SoundBanks\Windows">
+					<WorkUnit Name="Windows" ID="{F0F930B0-0B49-4DBC-987B-01F7FDDDEB36}" PersistMode="Standalone"/>
+				</PhysicalFolder>
+				<PhysicalFolder Path="SoundBanks\Windows\English(US)">
+					<WorkUnit Name="English(US)" ID="{928C87EA-465E-492D-B72D-099047440341}" PersistMode="Standalone"/>
+				</PhysicalFolder>
 				<PhysicalFolder Path="Soundcaster Sessions">
 					<WorkUnit Name="Soundcaster Sessions" ID="{4C96B38B-3DB4-40C7-91C9-665510E38993}" PersistMode="Standalone"/>
 				</PhysicalFolder>

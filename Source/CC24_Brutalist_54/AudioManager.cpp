@@ -22,11 +22,16 @@ void AAudioManager::BeginPlay()
 	
 }
 
+float AAudioManager::MSPGetTempValue() const
+{
+	return tempValue;
+}
+
 // Called every frame
 void AAudioManager::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	UE_LOG(LogTemp, Warning, TEXT("AudioManager tick.."));
+	// UE_LOG(LogTemp, Warning, TEXT("AudioManager tick.."));
 }
 

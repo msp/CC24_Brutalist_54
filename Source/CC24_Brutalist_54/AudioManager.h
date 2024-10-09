@@ -19,8 +19,15 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
+	UFUNCTION(BlueprintCallable, BlueprintPure)
+	float MSPGetTempValue() const;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+protected:
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+
+	float tempValue = 100;
 };

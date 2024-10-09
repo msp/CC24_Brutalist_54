@@ -19,7 +19,7 @@
     "GUID": "{D94A96A8-E70C-4209-86B9-9953709B814D}",
     "BasePlatform": "Windows",
     "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
-    "Path": "../SoundBanks/Windows"
+    "Path": "Windows"
    }
   ],
   "Languages": [
@@ -31,6 +31,6 @@
     "UseAsStandIn": "true"
    }
   ],
-  "FileHash": "{23B97ACC-8E58-C3CA-1678-9B69DCEC06B6}"
+  "FileHash": "{B6954C46-595B-D536-2E8D-0DDC6F83F419}"
  }
 }
